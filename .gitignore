@@ -1,0 +1,115 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+
+# VS Code directories
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Rider Large Caches
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+
+# Rider & IntelliJ External Libraries
+.idea/**/libraries
+
+# Rider run configurations
+.idea/**/runConfigurations
+
+# Rider cache
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/tasks/
+.idea/**/caches/
+.idea/**/workspace/
+.idea/**/temporary/
+
+# Rider files
+.idea/**/rider.vmoptions
+.idea/**/rider32.vmoptions
+.idea/**/rider64.vmoptions
+.idea/**/rider.executable
+.idea/**/rider64.executable
+.idea/**/rider64.xml
+.idea/**/rider.properties
+.idea/**/rider32.properties
+.idea/**/rider.xml
+
+# Node.js directories
+node_modules/
+
+# Optional npm cache directory
+.npm/
+
+# TypeScript v1 declaration files
+typings/
+
+# Visual Studio 2019 auto-generated file (when a local settings configuration is used)
+.vsconfig
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# Microsoft Visual Studio generated filter file
+*.vcxproj.filters
+
+# User-specific files (Mono)
+*.userprefs
+
+# User-specific files (Visual Studio for Mac)
+*.userprefs
+
+# User-specific files (JetBrains Rider)
+*.sln.iml
